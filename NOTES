@@ -1,0 +1,23 @@
+yarn add express mongoose
+yarn add nodemon
+//for backend
+npm init
+yarn start
+yarn add dotenv  //loads environment variables from a . env file into process. env .
+
+//for frontend
+npx create-react-app .
+yarn add react-map-gl
+yarn add @material-ui/core @material-ui/icons
+yarn add axios
+
+//to specify a port
+"start": "set PORT=3006 && react-scripts start"
+
+//useeffect
+By using this Hook, you tell React that your component needs to do something after render. 
+
+// for timestamp
+yarn add timeago.js
+
+ENJOY!
